@@ -1,0 +1,8 @@
+{
+  "name": "simple-site",
+  "version": "1.0.0",
+  "description": "Simple node server",
+  "main": "server.js",
+  "author": "odourassoff@gmail.com",
+  "license": "ISC"
+}
